@@ -38,10 +38,18 @@ A repository to consolidate knowledge articles, patterns, white papers, relevant
 
 ```mermaid
 journey
-  section Generate Requests
-  section Synthesize Requests
-  section Automate Execution
-  section Run/Experiment
+    section Create/Generate Test Cases
+        Write Test Cases: 5: QA
+        Generate Test Cases: 4: Developer
+        Synthesize Requests: 3: Developer
+    section Create Data Sets
+        Document Expected Response: 5: QA
+    section Automate Execution
+        Integrate with CI/CD Pipeline: 5:DevOps
+        Run/Execute Pipeline: 4:DevOps
+        Synthesize Results: 3:QA
+        Capture Metrics: 3:QA
+    
 ```
 
 - Measure LLM Performance by integrating it in CI Pipeline (run parallel tests with prepared data sets)
