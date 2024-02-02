@@ -55,7 +55,13 @@ journey
 - Measure LLM Performance by integrating it in CI Pipeline (run parallel tests with prepared data sets)
 - If customization is needed, writing your own Test Runner.
 
+### LLM Evaluation
 
 ## Production Best Practices
 
-- 
+
+## Tools
+
+| Area | Tool | Usage |
+| -----|------|-------|
+| LLM Evaluation | [Arthur Bench](https://www.arthur.ai/product/bench) | help teams evaluate the different LLM options out there in a quick, easy and consistent way |
