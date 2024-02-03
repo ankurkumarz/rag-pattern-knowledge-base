@@ -3,6 +3,8 @@
 
 # Required
 version: 2
+name: rag-pattern
+type: mkdocs
 
 # Set the version of Python and other tools you might need
 build:
