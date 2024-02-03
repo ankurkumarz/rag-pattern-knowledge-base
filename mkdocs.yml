@@ -5,6 +5,11 @@ docs_dir: 'docs'
 site_dir: 'html'
 theme:
   name: 'material'
+  palette:
+    primary: indigo
+  features:
+    - navigation.instant
+    - search.highlight
 
 nav:
   - Home: 'index.md'
