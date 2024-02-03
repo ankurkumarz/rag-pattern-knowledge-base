@@ -1,13 +1,14 @@
 site_name: 'RAG Pattern Knowledge Base'
 site_description: 'A repository to consolidate knowledge articles, patterns, white papers, relevant articles supporting RAG pattern.'
 site_author: 'Ankur Kumar'
-docs_dir: .
+docs_dir: '.'
+site_dir: ../html
 theme:
   name: 'material'
 
 nav:
   - Home: 'README.md'
-  - Reference Architecture: '.ReferenceArchitecture/README.md'
+  - Reference Architecture: 'ReferenceArchitecture/README.md'
   # Add more pages here
 
 plugins:
