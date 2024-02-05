@@ -28,9 +28,13 @@ A repository to consolidate knowledge articles, patterns, white papers, relevant
 
 ## Vector Databases
 
+[Click here](VectorDatabases/index.md) for details on Vector Databases, to store embeddings for semantic search as part of RAG pattern.
+
+
 ## Whitepapers
 
 - [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/pdf/2306.06624.pdf)
+- [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
 
 ## Evaluation and Testing
 
