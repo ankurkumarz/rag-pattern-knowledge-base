@@ -14,6 +14,7 @@ theme:
 nav:
   - Home: 'index.md'
   - Reference Architecture: 'ReferenceArchitecture/README.md'
+  - Vector Databases: 'VectorDatabases/index.md'
   # Add more pages here
 
 plugins:
