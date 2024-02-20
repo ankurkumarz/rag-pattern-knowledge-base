@@ -6,7 +6,13 @@ A repository to consolidate knowledge articles, patterns, white papers, relevant
 <a href="https://opensource.org/licenses/Apache"><img src="https://img.shields.io/badge/license-Apache--2.0-blue"></a>
 </p>
 
-## Design Patterns
+## Fundamentals
+
+- [A Comprehensive Overview of LLMs](https://arxiv.org/pdf/2307.06435.pdf)
+
+![LLM Overview](images/LLM-Overview.png)
+
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 
 ### Pre-check/practices
 
