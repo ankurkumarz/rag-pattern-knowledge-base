@@ -41,6 +41,9 @@ A repository to consolidate knowledge articles, patterns, white papers, relevant
 
 - [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/pdf/2306.06624.pdf)
 - [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511)
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
+- [AutoDev: Automated AI-Driven Development](https://arxiv.org/abs/2403.08299?)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 
 ## Evaluation and Testing
 

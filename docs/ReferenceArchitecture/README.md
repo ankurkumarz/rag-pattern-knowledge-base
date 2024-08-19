@@ -15,3 +15,16 @@ title: Reference Architecture
 ![Grounded Generation Reference Architecture](https://vectara.com/wp-content/uploads/2023/08/Flow-Process-01-final-2-1024x703.png)
 
 <p align="center">Source: <a href="https://vectara.com/blog/a-reference-architecture-for-grounded-generation/">Vectara</a></p>
+
+## Google Cloud
+
+![Infrastructure for a RAG-capable generative AI application using Vertex AI ](https://cloud.google.com/static/architecture/images/rag-capable-gen-ai-app-using-vertex-ai-architecture-detail.svg)
+
+<p align="center">Source: <a href="https://cloud.google.com/architecture/rag-capable-gen-ai-app-using-vertex-ai">Google Cloud Reference Architecture</a></p>
+
+
+## AWS
+
+![RAG Techniques](https://docs.aws.amazon.com/images/prescriptive-guidance/latest/security-reference-architecture/images/rag.png)
+
+<p align="center">Source: <a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/gen-ai-rag.html">AWS Docs</a></p>
